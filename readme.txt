@@ -4,7 +4,7 @@ Welcome to the official GitHub Pages site of WASOG LLC. This is where we share i
 
 About WASOG LLC
 
-WASOG LLC is a dynamic company based in Algiers, Algeria, specializing in a variety of industries including import-export, agriculture, and distribution. We provide premium-quality livestock fooder, livestock, including Boran cattle, and we are committed to upholding the highest international health standards. Additionally, we focus on providing innovative solutions such as glow-in-the-dark stones, and we aim to become a trusted supplier for global companies in Ariba SAP Business Network supplier.
+WASOG LLC is a dynamic company based in Algiers, Algeria, specializing in a variety of industries including import-export, agriculture, and distribution. We provide premium-quality livestock fooder, livestock, including Boran cattle, and we are committed to upholding the highest international health standards. Additionally, we focus on providing innovative solutions such as glow-in-the-dark stones, and we aim to become a trusted supplier for global companies in SAP Business Network supplier.
 
 Company Details:
 
@@ -43,7 +43,7 @@ Agricultural solutions including organic waste recycling and crop intercropping 
 
 4. Sodium Chloride:
 
-Supplier of premium-grade sodium chloride Algeria.
+Supplier of premium-grade sodium chloride Algeria from 94 to 99.7 pharma grade 
 
 5. Saffron:
 
@@ -59,7 +59,7 @@ Specializing in the harvest and distribution of Tirmania nivea, a rare and highl
 
 Sourced from Algeria’s vast desert regions, where these truffles are highly sought after.
 
-
+7. WASOG LLC a verfied SAP Business Network supplier that helps companies gain visibility, increase operational efficiency, and ensure compliance.
 
 How to Reach Us
 
@@ -74,17 +74,3 @@ You can also find us on the following social media platforms:
 
 https://www.facebook.com/wasog.impexp
 https://www.tiktok.com/wasogllc
-
-Contributing
-
-We welcome contributions to this repository! If you'd like to help improve this site or suggest any changes, feel free to fork the repository and submit a pull request.
-
-License
-
-This repository is licensed under the MIT License.
-
-
----
-
-This template covers the key details about your company and includes sections about services, contact, and contributing, all essential for a professional company website. You can further customize this file by adding additional information specific to your company needs.
-
